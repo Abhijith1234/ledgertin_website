@@ -1,0 +1,24 @@
+<svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rounded background tile for standalone icon/favicon -->
+  <rect width="100" height="100" rx="22" fill="#070a12" />
+
+  <!-- Broken Frame Lines -->
+  <g stroke="#ffffff" stroke-width="4.5" stroke-linecap="square">
+    <line x1="20" y1="20" x2="35" y2="20" />
+    <line x1="49" y1="20" x2="80" y2="20" />
+    <line x1="80" y1="20" x2="80" y2="35" />
+    <line x1="80" y1="49" x2="80" y2="80" />
+    <line x1="80" y1="80" x2="65" y2="80" />
+    <line x1="51" y1="80" x2="20" y2="80" />
+    <line x1="20" y1="80" x2="20" y2="65" />
+    <line x1="20" y1="51" x2="20" y2="20" />
+  </g>
+
+  <!-- 4 Interlocking L-Bars -->
+  <g stroke="#ffffff" stroke-width="8.5" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M42 7 V42 H25" />
+    <path d="M58 25 V42 H93" />
+    <path d="M75 58 H58 V93" />
+    <path d="M42 75 V58 H7" />
+  </g>
+</svg>
